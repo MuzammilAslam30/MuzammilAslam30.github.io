@@ -1,2 +1,1 @@
-# MuzammilAslam30.github.io
-Portfolio of Web Developer (Muzammil Aslam), #Malik2672
+This is a portfolio of muzamil.me (muzammil Aslam).
